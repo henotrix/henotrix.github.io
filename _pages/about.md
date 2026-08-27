@@ -29,6 +29,6 @@ latest_posts:
 
 Hello! My name is Hsuan-Yu Kuo. I am an aspiring Master's student in Computer Science, with a primary research interest in Theoretical Computer Science.
 
-I received my Bachelor's degree from National Yang Ming Chiao Tung University, where I worked with Professor Jui-Hung Hung.
+I received my Bachelor's degree from National Yang Ming Chiao Tung University, where I worked with Professor Jui-Hung Hung at [JHHLab](https://www.jhhlab.tw/).
 
 You can download my curriculum vitae here: [To be updated].
