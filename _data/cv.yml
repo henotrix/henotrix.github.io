@@ -58,11 +58,11 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - company: ICPC Taiwan
+      - company: ICPC in Taiwan
         position: Judge & Problem Setter 
         location: Taiwan
         start_date: 2024
-        summary: Coordinating and setting problems for TOPC & ICPC Taiwan, two most prestigious competitive programming contests in Taiwan.
+        summary: Coordinating and setting problems for TOPC & ICPC, the two most prominent competitive programming contests in Taiwan.
 
     # Volunteer:
     #   - company: People's Climate March
